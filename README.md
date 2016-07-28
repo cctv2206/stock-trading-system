@@ -11,7 +11,8 @@ This is also the final project for Programming Finance course.
 3.  Buy shares
 4.	Sell shares
 5.	View the total portfolio value changing through time
-Note: The code works fine under Windows yet having some trouble connecting Matlab with Xcode. I still store the total portfolio value in a txt file every time the program exits. So that I can still read the file and print out the values. You can see the values changing through the time.
+ * Note: The code works fine under Windows yet having some trouble connecting Matlab with Xcode. I still store the total portfolio value in a txt file every time the program exits. So that I can still read the file and print out the values. You can see the values changing through the time.
+
 6.	View transaction history
 
 ### Bank Account
